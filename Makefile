@@ -53,7 +53,7 @@ LIB=$(MTH) $(GTK)
 COMMON=mifunc
 
 # Directorios que serán compilados a un programa
-PROGRAMS=test
+PROGRAMS=cli
 
 # Todos los directorios que contienen archivos de código
 SRCDIR=$(COMMON) $(PROGRAMS)
